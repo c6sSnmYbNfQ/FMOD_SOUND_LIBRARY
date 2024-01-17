@@ -27,9 +27,6 @@ We welcome contributions from the community. To contribute to TMM88_FMOD_OPENSOU
 # License
 This project is licensed under the [Specify your license here, e.g., MIT] License - see the LICENSE file for details.
 
-# Acknowledgments
-[Optional: Give credit to people or projects that inspired or helped your project]
-
 # Contact
 For questions or support, please contact tiagomoraismorgado at selfdeterminedhermit [at] gmail [dot] com
 
