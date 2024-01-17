@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{81f4cab2-1cbd-43c7-a1a7-492a1bce44a8}">
+		<property name="assetPath">
+			<value>SFX_GRAN_TEXTURE_8.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>12</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c357253b-18be-4b1b-a4dc-371334aef7cd}</destination>
+		</relationship>
+	</object>
+</objects>

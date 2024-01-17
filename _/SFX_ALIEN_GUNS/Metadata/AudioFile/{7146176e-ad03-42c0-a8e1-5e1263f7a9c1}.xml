@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{7146176e-ad03-42c0-a8e1-5e1263f7a9c1}">
+		<property name="assetPath">
+			<value>SFX_ALIEN_GUNS_18.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{65b2a7cd-f4fd-45ce-92e8-2569c635cdb1}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{56c23ad4-e00d-4b4f-b985-7c9a719f0903}">
+		<property name="assetPath">
+			<value>SFX_GLITCH_33.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.1250113378684807</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{c22c90e2-db12-4355-afd9-0970034fd62f}</destination>
+		</relationship>
+	</object>
+</objects>
