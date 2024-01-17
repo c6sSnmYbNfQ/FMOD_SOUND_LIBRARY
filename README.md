@@ -31,5 +31,5 @@ This project is licensed under the [Specify your license here, e.g., MIT] Licens
 [Optional: Give credit to people or projects that inspired or helped your project]
 
 # Contact
-For questions or support, please contact [Your Name] at [your.email@example.com].
+For questions or support, please contact tiagomoraismorgado at selfdeterminedhermit [at] gmail [dot] com
 
