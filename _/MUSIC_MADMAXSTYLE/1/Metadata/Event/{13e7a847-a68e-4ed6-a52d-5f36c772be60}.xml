@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{13e7a847-a68e-4ed6-a52d-5f36c772be60}">
 		<property name="name">
-			<value>Untitled</value>
+			<value>TMM88_MUSIC_FMOD_MADMAXSTYLE#1</value>
 		</property>
 		<property name="outputFormat">
 			<value>2</value>
@@ -69,6 +69,9 @@
 		</relationship>
 	</object>
 	<object class="EventMixerMaster" id="{3f640cd9-8b3a-4780-8eb5-80c57d21a912}">
+		<property name="volume">
+			<value>10</value>
+		</property>
 		<relationship name="effectChain">
 			<destination>{02741640-ad94-48e6-bfcf-e54e46b51d65}</destination>
 		</relationship>
@@ -88,6 +91,9 @@
 	<object class="SingleSound" id="{57888a12-f28e-46e8-b6a6-968ac5d5a1c9}">
 		<property name="length">
 			<value>105.93104308390022</value>
+		</property>
+		<property name="name">
+			<value>TMM88_MUSIC_FMOD_MADMAXSTYLE#1</value>
 		</property>
 		<relationship name="audioFile">
 			<destination>{f88d19d9-e802-4952-9d07-d8693bea822e}</destination>
