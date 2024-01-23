@@ -2,7 +2,7 @@
 
 ## Overview
 
-TMM88_FMOD_OPENSOURCE_SOUND_LIBRARY is an open-source sound library designed for [provide a brief description of the project].
+TMM88_FMOD_OPENSOURCE_SOUND_LIBRARY is an open-source sound library designed for videogames vr/ar/xr/mr.
 
 ## Features
 
