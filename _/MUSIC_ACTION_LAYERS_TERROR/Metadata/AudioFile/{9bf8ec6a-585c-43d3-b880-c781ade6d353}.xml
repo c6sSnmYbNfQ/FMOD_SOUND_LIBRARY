@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{9bf8ec6a-585c-43d3-b880-c781ade6d353}">
+		<property name="assetPath">
+			<value>4 - QUANTUM STUDIOS - ACTION PACK - THIEMATH.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>18.672208333333334</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{285b5404-66db-442d-bc8f-143362540cbd}</destination>
+		</relationship>
+	</object>
+</objects>
